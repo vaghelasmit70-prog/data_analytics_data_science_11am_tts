@@ -15,3 +15,12 @@ https://github.com/
 4. git branch -m main or master 
 5. git remote add origin https://github.com/vaghelasmit70-prog/data_analytics_data_science_11am_tts.git 
 6. git pus -u origin master 
+
+
+## u already have a repo than update coomand is
+
+1. git init
+2. git add .
+3. git commit -m 'all data uploded'
+4. git push -u origin master
+
