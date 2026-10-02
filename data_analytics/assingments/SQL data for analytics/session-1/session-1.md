@@ -10,7 +10,7 @@
 
 **solution**
 
-## 1. MySQL Community Server Installation
+## 1: Complete Setup & Select All Records from Restaurants Table
 
 MySQL Community Server was successfully installed on the computer.
 
