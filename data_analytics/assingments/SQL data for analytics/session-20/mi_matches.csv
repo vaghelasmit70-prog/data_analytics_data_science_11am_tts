@@ -1,0 +1,7 @@
+match_id,season,city,match_date,team1,team2,toss_winner,winner,win_by_runs,win_by_wickets
+2,2023,Bengaluru,2023-04-02,"Royal Challengers Bangalore","Mumbai Indians","Royal Challengers Bangalore","Royal Challengers Bangalore",0,8
+3,2023,Delhi,2023-04-11,"Delhi Capitals","Mumbai Indians","Mumbai Indians","Mumbai Indians",0,6
+4,2023,Mumbai,2023-04-16,"Mumbai Indians","Kolkata Knight Riders","Mumbai Indians","Mumbai Indians",0,5
+5,2023,Chennai,2023-05-06,"Chennai Super Kings","Mumbai Indians","Chennai Super Kings","Chennai Super Kings",0,6
+6,2023,Mumbai,2023-05-09,"Mumbai Indians","Royal Challengers Bangalore","Mumbai Indians","Mumbai Indians",0,6
+7,2023,Lucknow,2023-05-16,"Lucknow Super Giants","Mumbai Indians","Mumbai Indians","Lucknow Super Giants",5,0
